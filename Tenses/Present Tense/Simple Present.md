@@ -13,7 +13,6 @@ subject is word talk about person . they are catagorized into four types they ar
  | I               |We                 |
  | You             |You                |
  | He/she          |They               |
-
  | Name            |Name               |
  ---------------------------------------- 
 __Verb{v1} :-__
