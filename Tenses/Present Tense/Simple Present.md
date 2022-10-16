@@ -6,7 +6,7 @@ The action is happens regularly or the action is happening right now.
               Subject + v1 + s/es + object
 
 __subject :-__
-subject is word talk about person . they are catagorized into five types they are:-
+subject is word talk about person . they are catagorized into four types they are:-
 
  | singlar         |  Plural           |
  |-----------------|-------------------|
