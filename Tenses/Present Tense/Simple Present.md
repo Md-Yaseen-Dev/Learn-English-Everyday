@@ -90,7 +90,7 @@ Ex:- I catch train at 10,o clock.
 
 subject + Do not/Does not (Don't/Doesn't)+ verb + obj 
 
-* Examples:-
+**Examples:-**
 
 1. She does not like cake.
 1. He does not play Cricket.
@@ -122,7 +122,7 @@ Note:-
 
    Do/Does + subject + verb + object
 
-   * Examples:-
+   **Examples:-**
    
    1. Does she like chocolates ?
    1. Does he play cricket ?
@@ -138,7 +138,7 @@ Note:-
 
      It is same as interrogative but here we use not . after the do/does
 
-  * Examples
+  **Examples**
 
   <!-- 1. Does she not like chocolates ? 
   1. Does he not play cricket ?
