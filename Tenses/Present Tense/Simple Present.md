@@ -136,7 +136,7 @@ Note:-
 
 ## Interrogative negative(simple present)
 
-     It is same as interrogative but here we use not. after the persons
+     It is same as interrogative but here we use not . after the do/does
 
   * Examples
 
@@ -145,7 +145,7 @@ Note:-
   1. Do I not watch television ?
   1. Do we not read books ?
   1. Do they not play football ?
-  1. Do students not read their lessons ? --> confusing
+  1. Do students not read their lessons ? -->
 
 
   1. Does not she like chococlates ?
