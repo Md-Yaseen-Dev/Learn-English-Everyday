@@ -47,5 +47,5 @@ subject + v2(base form of verb ed/d -ed for regular verbs -d for irregular verbs
 
  #### To know irregular words click below :-
 
-[irregular words](https://www.grammar.cl/Past/Irregular_Verbs_List.htm)
-
+- [irregular words](https://www.grammar.cl/Past/Irregular_Verbs_List.htm)
+   
